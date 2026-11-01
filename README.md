@@ -19,14 +19,14 @@
 
 `Linux` `Git` `GitHub Actions` `Docker` `Kubernetes` `Jenkins` `Terraform` `Ansible` `AWS` `Nginx` `Bash`
 
----
 
+---
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Bakarpathan6&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarpathan6&layout=compact&theme=tokyonight)
-</p>
+![GitHub Stats](...)
+![Top Langs](...)
 
 ---
+
 
 ⭐ *"From Commit to Cloud, I make it work."*
