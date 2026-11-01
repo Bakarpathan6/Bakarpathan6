@@ -23,8 +23,8 @@
 ---
 ### 📊 GitHub Stats
 
-![GitHub Stats](...)
-![Top Langs](...)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bakarpathan6&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakarpathan6&layout=compact&theme=tokyonight)
 
 ---
 
