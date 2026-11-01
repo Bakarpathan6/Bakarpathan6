@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Bakar Pathan — DevOps Engineer ⚙️🚀
+
+> "Automate the boring, Monitor the critical, Scale the future."
+
+---
+
+#### 👨‍💻 About Me
+
+- 🔧 **DevOps Engineer | Automating Everything**
+- 🌱 Currently mastering **Docker, Kubernetes, CI/CD, AWS**
+- 🔭 Working on: **Infrastructure as Code & Ecommerce Automation**
+- ⚙️ Philosophy: **Build Once, Deploy Anywhere, Scale Infinitely**
+
+---
+
+#### 🛠️ My DevOps Stack
+
+`Linux` `Git` `GitHub Actions` `Docker` `Kubernetes` `Jenkins` `Terraform` `Ansible` `AWS` `Nginx` `Bash`
+
+---
+
+#### 🔥 DevOps Quote of the Day
+
+> "In DevOps, we don't fix the problem, we automate the fix for forever."
+
+---
+
+#### 📈 My Workflow
+
+```mermaid
+graph LR
+A[Code] --> B[Build] --> C[Test] --> D[Deploy] --> E[Monitor] --> A
+
